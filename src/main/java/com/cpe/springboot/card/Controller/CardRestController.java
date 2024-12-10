@@ -66,5 +66,5 @@ public class CardRestController {
 		cardModelService.deleteCardModel(Integer.valueOf(id));
 	}
 
-	
+	//TODO: Implémenter le mapper entre le DTO publique et le DTO du monolithe
 }
